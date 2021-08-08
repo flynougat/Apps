@@ -1,0 +1,5 @@
+User Login System Mobile App instruction
+1. install Python and Kivy: https://kivy.org/doc/stable/gettingstarted/installation.html#kivy-source-install
+2. create VM in current directory: python -m virtualenv kivy_venv
+3. activate VM: kivy_venv\Scripts\activate
+4. run main.py
