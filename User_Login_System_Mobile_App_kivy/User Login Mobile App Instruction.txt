@@ -3,3 +3,4 @@ User Login System Mobile App instruction
 2. create VM in current directory: python -m virtualenv kivy_venv
 3. activate VM: kivy_venv\Scripts\activate
 4. run main.py
+5. user login credentials are recorded in users.json. Pretty file json use shift+alt+f in windows
